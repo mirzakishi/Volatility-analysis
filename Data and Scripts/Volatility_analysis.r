@@ -1,3 +1,4 @@
+# Beginning of the project
 # This script is developed in order to obtain the results of 
 # Russian Machinery Stock Market Volatility. 
 
