@@ -277,4 +277,4 @@ png('pr_omzz_p.png', width = 450, height = 350, res = 100)
 plot_pr_omzz_p = predict(pr_omzz_p, 2, plot = TRUE, crit_val = 2)
 dev.off()
 
-# The end of project 
+# The end of project
